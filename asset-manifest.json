@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.62080a9a.chunk.js",
-    "main.js.map": "/static/js/main.62080a9a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cc311d34.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cc311d34.js.map",
-    "static/js/2.c54902cb.chunk.js": "/static/js/2.c54902cb.chunk.js",
-    "static/js/2.c54902cb.chunk.js.map": "/static/js/2.c54902cb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f83829b9a5962300d17344f8aaaeb11f.js": "/precache-manifest.f83829b9a5962300d17344f8aaaeb11f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.c54902cb.chunk.js.LICENSE.txt": "/static/js/2.c54902cb.chunk.js.LICENSE.txt"
+    "main.js": "/aureuneun/movie_app.git/static/js/main.62080a9a.chunk.js",
+    "main.js.map": "/aureuneun/movie_app.git/static/js/main.62080a9a.chunk.js.map",
+    "runtime-main.js": "/aureuneun/movie_app.git/static/js/runtime-main.612827f5.js",
+    "runtime-main.js.map": "/aureuneun/movie_app.git/static/js/runtime-main.612827f5.js.map",
+    "static/js/2.11b7a4cc.chunk.js": "/aureuneun/movie_app.git/static/js/2.11b7a4cc.chunk.js",
+    "static/js/2.11b7a4cc.chunk.js.map": "/aureuneun/movie_app.git/static/js/2.11b7a4cc.chunk.js.map",
+    "index.html": "/aureuneun/movie_app.git/index.html",
+    "precache-manifest.70066525eec32d0f047d7e1fea86fc41.js": "/aureuneun/movie_app.git/precache-manifest.70066525eec32d0f047d7e1fea86fc41.js",
+    "service-worker.js": "/aureuneun/movie_app.git/service-worker.js",
+    "static/js/2.11b7a4cc.chunk.js.LICENSE.txt": "/aureuneun/movie_app.git/static/js/2.11b7a4cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc311d34.js",
-    "static/js/2.c54902cb.chunk.js",
+    "static/js/runtime-main.612827f5.js",
+    "static/js/2.11b7a4cc.chunk.js",
     "static/js/main.62080a9a.chunk.js"
   ]
 }
